@@ -1,0 +1,4 @@
+Quick testing environment settings for a brand new Rails project
+
+eddie@5xruby.tw
+
